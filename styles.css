@@ -33,10 +33,17 @@ h3{
 
 p{
  font-family: "Archivo Narrow", sans-serif;
-  font-optical-sizing: auto;  
     font-size: medium;
   color: white;
 }
+
+header{
+    
+    background-color: #FFB797;
+    
+    
+}
+
 
 
 footer{
@@ -51,6 +58,7 @@ footer{
 
 
 /*nav styles*/
+
 nav ul li a:link,nav ul li a:visited {
     color:white;
     background-color: #7E515A;
@@ -63,6 +71,7 @@ nav ul {
   padding: 0;
   background-color: #7E515A;
   display: flex;
+   
    
 }
 
