@@ -1,13 +1,13 @@
 @charset "UTF-8";
 /*Custom CSS*/
 
-body    {
+body{
     background-color: #F09483;
     padding-top: 25px;
 }
 
 
-h1  {
+h1{
   text-align: center;
   font-family: "Tenor Sans", sans-serif;
   font-weight: 400;
@@ -17,34 +17,34 @@ h1  {
 }
 
 
-h2 {
+h2{
   text-align: center;
   font-family: "Tenor Sans", sans-serif;
   font-weight: 400;
   font-style: normal;  
   color: white;
 }
-
-h3 {
+h3{
   color: white;
   font-family: "Tenor Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-p {
- font-family: "Archivo Narrow", sans-serif;  
+p{
+ font-family: "Archivo Narrow", sans-serif;
+  font-optical-sizing: auto;  
     font-size: medium;
   color: white;
 }
 
 
-footer {
+footer{
     
     background-color: #7E515A; 
 }
 
-.row {
+.row{
     padding: 15px;
     width: 100%;    
 }
@@ -72,15 +72,6 @@ nav ul li {
     text-transform: uppercase;
 }
 
-/* Form */
-.form-group {
- background-color: #FFB797;
-    font-family: "Tenor Sans", sans-serif;
-    font-size: medium;
-    
-    
-}
-
 nav ul li a{
     display: block;
   color: white;
@@ -88,4 +79,7 @@ nav ul li a{
   text-decoration: none;
 }
 
+.author-portrait{
+  margin-top: 20;
+}
 
